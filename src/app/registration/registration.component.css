@@ -1,0 +1,44 @@
+ .example-form {
+     min-width: 150px;
+     max-width: 500px;
+     width: 100%;
+ }
+ 
+ .example-full-width {
+     width: 100%;
+ }
+ 
+ .mat-form-field-appearance-outline .mat-form-field-outline-thick {
+     color: grey;
+ }
+ 
+ .student-register {
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: grey;
+ }
+ 
+ .student-register mat-card {
+     width: 20%;
+     height: 50%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ .student-register div {}
+ 
+ .mat-title {
+     color: rgb(58, 56, 56);
+     font-size: 1px;
+ }
+ 
+ .mat-title mat-card-title {
+     font-size: 20px;
+ }
+ 
+ .mat-form-field-flex {
+     width: 125%;
+ }
